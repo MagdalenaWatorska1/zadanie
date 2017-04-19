@@ -1,0 +1,62 @@
+table tr th{
+	background-color:#669999;
+	font-size:15px;
+	text-align:center;
+}
+table tr td{
+	
+	font-size:15px;
+	text-align:center;
+
+}
+
+table tr th.cel1{
+	
+	width:100px;
+}
+table tr th.cel2{
+
+	width:265px;
+}
+table tr th.cel3{
+	
+	width:250px;
+}
+table tr th.cel4{
+
+	width:460px;
+}
+table tr th.cel5{
+	
+	width:325px;
+}
+table tr th.cel6{
+
+	width:100px;
+}
+
+
+table tr td.cel1{
+	
+	width:100px;
+}
+table tr td.cel2{
+
+	width:265px;
+}
+table tr td.cel3{
+	
+	width:250px;
+}
+table tr td.cel4{
+
+	width:460px;
+}
+table tr td.cel5{
+	
+	width:325px;
+}
+table tr td.cel6{
+
+	width:100px;
+}
